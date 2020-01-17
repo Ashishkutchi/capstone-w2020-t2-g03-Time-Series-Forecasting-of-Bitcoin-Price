@@ -1,4 +1,4 @@
-# capstone-w2020-t2-g3
+# capstone-w2020-t2-g03
 This is the Git repository for the Capstone Project by Ashish Kutchi, Fangyi Yu, Obie Udemezue and Yiqi Zhang, under the supervision of Marcos Bittencourt
 Our project explores the use of time-series forecasting methods to predict the price of Bitcoin, using machine learning. Organizations, markets and industries are daily in
 of the ability to accurately predict the performance of their value drivers, and time-series forecasting leveraging on machine learning algorithms have made this possible.
