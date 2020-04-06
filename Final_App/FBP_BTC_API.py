@@ -4,8 +4,9 @@
 # In[1]:
 
 
-#pip install --upgrade plotly
-
+pip install --upgrade plotly
+pip install numpy
+pip install pystan
 
 # In[2]:
 
