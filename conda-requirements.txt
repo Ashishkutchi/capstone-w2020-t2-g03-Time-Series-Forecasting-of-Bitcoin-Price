@@ -1,3 +1,2 @@
-name: btc-usd
 dependencies:
 	- conda install -c conda-forge fbprophet
