@@ -1,2 +1,2 @@
 dependencies:
-	- conda install -c conda-forge fbprophet
+	- -c conda-forge fbprophet
